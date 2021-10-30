@@ -1,2 +1,2 @@
 # pscoast
-Create a map Using "pscou"
+Create a map Using "pscoast"
