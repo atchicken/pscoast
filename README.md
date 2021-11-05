@@ -16,16 +16,12 @@ sudo apt-get install gmt
 
 ## Details(Japanese)
 
-・Blog
+・[Blog](https://atchicken.com/japan-map/)
 
-https://atchicken.com/japan-map/
-
-・Qiita
-
-https://qiita.com/atchicken/items/ea8267f014d136284712
+・[Qiita](https://qiita.com/atchicken/items/ea8267f014d136284712)
 
 
-## Result
+## How to Use and Result
 ```
 ./pscoast.sh
 ```
