@@ -5,24 +5,22 @@ GMT: Generic Mapping Tools
 ## GMT Install
 
 ・Mac OS
-```
+```bash:bash
 brew install gmt
 ```
 
 ・Ubuntu
-```
+```bash:bash
 sudo apt-get install gmt
 ```
 
-## Details(Japanese)
+## Detailed Explanation(Japanese)
 
 ・[Blog](https://atchicken.com/japan-map/)
 
-・[Qiita](https://qiita.com/atchicken/items/ea8267f014d136284712)
 
-
-## How to Use and Result
-```
+## How to Use and Results
+```bash:bash
 ./pscoast.sh
 ```
 
